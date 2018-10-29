@@ -1,4 +1,4 @@
-# Multivariate disease mapping with INLA
+# Joint spatio-temporal disease mapping with INLA
 
 In this repository you will find the `R` code to fit with INLA the models
 described in this paper:
