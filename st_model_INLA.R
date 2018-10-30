@@ -97,7 +97,7 @@ prior.beta.t = list(prior = "normal", param = c(0, 1 / 5.9),
 #prior.prec = list(initial = 0, fixed = TRUE)
 # Gamma prior on precision
 #file.saved <- "st_model_GAMMA.RData"
-#prior.prec = list(prior = "loggamma", param = c(0.01, 0.01), initial = 0)
+#prior.prec = list(prior = "loggamma", param = c(0.5, 0.0005), initial = 0)
 
 #Flat prior on sigma: Ugarte et al. (2018):
 file.saved <- "st_model_UNIFORM.RData"
